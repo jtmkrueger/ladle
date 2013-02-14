@@ -15,6 +15,7 @@ sn: Adams
 givenName: Alexandra
 mail: alexandra@example.org
 uid: aa729
+physicalDeliveryOfficeName: RSF/B448-3 mailstop: RSF403
 # Password is "smada"
 userpassword: {SHA}pGlmZX1VOEdHHb30HZezeVNFxGM=
 
